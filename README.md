@@ -3,11 +3,24 @@
 
 <br>
 
-- 🔭 I’m currently working on **skills development**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avinav%20Acharya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Enthusiast%20%7C%20ARCH%20Linux%20Lover%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-- 🌱 I’m currently learning **ARCH Linux, Git, Github, etc**
+<p align="center">
+  <img src="https://github.com/avinavarcher12/avinavarcher12/blob/main/WhatsApp%20Image%202022-08-07%20at%209.52.05%20AM_20251204_011336.jpeg?raw=true" 
+       width="180" 
+       height="180" 
+       alt="Avinav Acharya"/>
+</p>
 
-- 👯 I’m looking to collaborate on **Real Life Projects**
+<br>
+
+- 🔭 I'm currently working on **skills development**
+
+- 🌱 I'm currently learning **ARCH Linux, Git, Github, etc**
+
+- 👯 I'm looking to collaborate on **Real Life Projects**
 
 <br>
 
@@ -26,8 +39,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinavarcher12&show_icons=true&locale=en&layout=compact" alt="avinavarcher12" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinavarcher12&show_icons=true&locale=en" alt="avinavarcher12" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinavarcher12&" alt="avinavarcher12" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
