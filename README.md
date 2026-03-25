@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinav Acharya</h1>
 <h3 align="center">A passionate IT individual and ARCH Linux lover from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinavarcher12&label=Profile%20views&color=0e75b6&style=flat" alt="avinavarcher12" /> </p>
-
 - 🔭 I’m currently working on **skills development**
 
 - 🌱 I’m currently learning **ARCH Linux, Git, Github, etc**
