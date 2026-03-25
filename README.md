@@ -4,13 +4,10 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avinav%20Acharya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Enthusiast%20%7C%20ARCH%20Linux%20Lover%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/avinavarcher12/avinavarcher12/blob/main/WhatsApp%20Image%202022-08-07%20at%209.52.05%20AM_20251204_011336.jpeg?raw=true" 
-       width="180" 
-       height="180" 
+       width="300" 
+       height="350"
+       style="border-radius: 50%; border: 4px solid #58a6ff; padding: 4px; box-shadow: 0 0 15px #58a6ff;"
        alt="Avinav Acharya"/>
 </p>
 
@@ -42,7 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinavarcher12&show_icons=true&locale=en" alt="avinavarcher12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinavarcher12&" alt="avinavarcher12" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</p>
