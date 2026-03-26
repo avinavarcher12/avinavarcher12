@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinav Acharya</h1>
-<h3 align="center">A passionate IT individual and ARCH Linux lover from India</h3>
+<h3 align="center">A passionate IT individual and ARCH Linux lover from India<br> 🎓 MCA @ REVA University  <br>  💻 UI/UX Design & Wireframing  <br>  🎨 Photo & Video Editing  <br>  🏍️ Biker  <br>  🎵 Music Lover  <br>  Always learning  </h3>
 
 
 ---
