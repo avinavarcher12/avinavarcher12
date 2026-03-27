@@ -40,7 +40,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinavarcher12&show_icons=true&locale=en&layout=compact" alt="avinavarcher12" /></p>
 -->
-![Avinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinavarcher12&show_icons=true&theme=tokyonight)
+
+<!-- ![Avinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinavarcher12&show_icons=true&theme=tokyonight) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinavarcher12&" alt="avinavarcher12" /></p>
 -->
