@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/avinavarcher12/avinavarcher12/blob/main/WhatsApp%20Image%202022-08-07%20at%209.52.05%20AM_20251204_011336.jpeg?raw=true" 
+  <img src="https://github.com/avinavarcher12/avinavarcher12/blob/main/Avinav Acharya?raw=true" 
        width="300" 
        height="350"
        style="border-radius: 50%; border: 4px solid #58a6ff; padding: 4px; box-shadow: 0 0 15px #58a6ff;"
