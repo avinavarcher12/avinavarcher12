@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/avinavarcher12/avinavarcher12/blob/main/Avinav Acharya?raw=true" 
        width="300" 
        height="350"
@@ -13,7 +13,7 @@
 </p>
 
 
----
+-->
 
 - 🔭 I'm currently working on **skills development**
 
